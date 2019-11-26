@@ -1,2 +1,2 @@
 # ncstore
-Nghich Code Store
+Angular/VueJ    s web app.
